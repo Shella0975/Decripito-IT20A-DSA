@@ -1,0 +1,3 @@
+Name:Shella mae P. Decripito
+Course:IT20A
+Activity:basic of Git and GitHub
